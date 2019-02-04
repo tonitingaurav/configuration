@@ -12,3 +12,6 @@ spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.PostgreSQLDialec
 redis.server: "redis"
 redis.port: "6379"
 signing.key: "345345fsdfsf5345"
+example.nn:
+  prop1: "property 1"
+  prop2: "property 2"
