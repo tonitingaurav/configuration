@@ -2,6 +2,5 @@ example.property: "I AM IN THE DEFAULT"
 redis.server: "redis"
 redis.port: "6379"
 signing.key: "345345fsdfsf5345"
-example.nn:
-  - prop1: "property 1"
-  - prop2: "property 2"
+"example.nn[prop1]": "property 1"
+"example.nn[prop2]": "property 2"
