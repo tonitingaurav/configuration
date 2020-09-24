@@ -1,3 +1,6 @@
 spring:
   jackson:
     date-format: yyyy-MM-dd
+jasypt:
+  encryptor:
+    password: jasy-emp-app
