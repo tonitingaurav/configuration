@@ -1,0 +1,6 @@
+spring:
+  jackson:
+    date-format: yyyy-MM-dd
+jasypt:
+  encryptor:
+    password: jasy-asset-app
